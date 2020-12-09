@@ -1,0 +1,21 @@
+{
+  "androidbox": {
+    "datetime": "2020-10-29 20:27:41",
+    "device_id": "69d2a427a05289a3"
+  },
+  "itag": {
+    "itag_list": [
+      {
+      "mac_address":"FF:FF:B1:25:6D:80",
+      "name":"PC",
+      "distance": -72
+      },
+    {
+      "mac_address":"FF:FF:CA:1B:CA:80",
+      "name":"PI",
+      "distance": -76
+    }
+    ],
+    "version": "3003202005001"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "version":"3003202005001",
+  "device":[
+    {
+      "ordinal":1,
+      "device_id":"7e49d38c03225ea4",
+      "title":"ห้อง TX3 Mini"
+    },
+    {
+      "ordinal":3,
+      "device_id":"f0bc56604bb3d8a6",
+      "title":"ห้อง J7"
+    },
+    {
+      "ordinal":2,
+      "device_id":"69d2a427a05289a3",
+      "title":"ห้อง Note4"
+
+    },
+    {
+      "ordinal":4,
+      "device_id":"d251f46ff2856a01",
+      "title":"ห้อง Nord"
+
+    }
+    ,
+    {
+      "ordinal":5,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":6,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":7,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":8,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":9,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":10,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":11,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":12,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":13,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":14,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":15,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":16,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":17,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+    ,
+    {
+      "ordinal":18,
+      "device_id":"000",
+      "title":"ห้องเปล่า"
+
+    }
+  
+  ]
+}

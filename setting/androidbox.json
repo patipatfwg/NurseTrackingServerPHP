@@ -1,0 +1,61 @@
+{
+  "version":"3003202005001",
+  "device":[
+    {
+      "ordinal":1,
+      "device_id":"7e49d38c03225ea4",
+      "title":"ห้อง TX3 Mini"
+    },
+    {
+      "ordinal":3,
+      "device_id":"f0bc56604bb3d8a6",
+      "title":"ห้อง J7"
+    },
+    {
+      "ordinal":2,
+      "device_id":"69d2a427a05289a3",
+      "title":"ห้อง Note4"
+
+    },
+    {
+      "ordinal":4,
+      "device_id":"d251f46ff2856a01",
+      "title":"ห้อง Nord"
+
+    }
+    ,
+    {
+      "ordinal":5,
+      "device_id":"fe5392bb6010e2f2",
+      "title":"ห้อง 8T"
+
+    }
+    ,
+    {
+      "ordinal":6,
+      "device_id":"d251f46ff2856a0a",
+      "title":"ห้องว่าง"
+    }
+    ,
+    {
+      "ordinal":7,
+      "device_id":"d251f46ff2856a0a",
+      "title":"ห้องว่าง"
+    }
+    ,
+    {
+      "ordinal":8,
+      "device_id":"80fa3c1ef2589ad0",
+      "title":"ห้อง Long"
+
+    },    
+    {
+      "ordinal":9,
+      "device_id":"80fa3c1ef2589ad1",
+      "title":"ห้องว่าง"
+
+    }
+
+    
+  ]
+}

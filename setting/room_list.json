@@ -1,0 +1,25 @@
+{
+  "version":"3003202005001",
+  "room_list" : [
+    {
+      "ordinal":1,
+      "room_title":"ห้อง TX3 Mini",
+      "device_id":"7e49d38c03225ea4"
+    },
+    {
+      "ordinal":3,
+      "room_title":"ห้อง J7",
+      "device_id":"f0bc56604bb3d8a6"
+    },
+    {
+      "ordinal":2,
+      "room_title":"ห้อง Note4",
+      "device_id":"69d2a427a05289a3"
+    },
+    {
+      "ordinal":4,
+      "room_title":"ห้อง Nord",
+      "device_id":"d251f46ff2856a01"
+    }
+  ]
+}

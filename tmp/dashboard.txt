@@ -1,0 +1,136 @@
+{
+  "androidbox": {
+    "datetime": "2020-12-02 01:31:10",
+    "device_id": "Dashboard",
+    "message": "Send Room List."
+  },
+  "layoutY": {
+    "room_amount": 8,
+    "room_list": [
+      {
+        "ordinal": 1,
+        "room_title": "ห้อง TX3 Mini",
+        "device_id": "7e49d38c03225ea4",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 2,
+        "room_title": "ห้อง Note4",
+        "device_id": "69d2a427a05289a3",
+        "nurse_list": [
+          {
+            "title": "PC",
+            "mac_address": "FF:FF:B1:25:6D:80",
+            "distance": -77
+          },
+          {
+            "title": "PI",
+            "mac_address": "FF:FF:CA:1B:CA:80",
+            "distance": -76
+          },
+          {
+            "title": "PG",
+            "mac_address": "F6:74:96:54:8E:B6",
+            "distance": -87
+          }
+        ]
+      },
+      {
+        "ordinal": 3,
+        "room_title": "ห้อง J7",
+        "device_id": "50321a567585340f",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 4,
+        "room_title": "ห้อง Nord",
+        "device_id": "d251f46ff2856a01",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 5,
+        "room_title": "",
+        "device_id": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 6,
+        "room_title": "",
+        "device_id": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 7,
+        "room_title": "",
+        "device_id": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 8,
+        "room_title": "",
+        "device_id": "",
+        "nurse_list": []
+      }
+    ]
+  },
+  "layoutX": {
+    "room_amount": 10,
+    "room_list": [
+      {
+        "ordinal": 9,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 10,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 11,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 12,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 13,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 14,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 15,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 16,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 17,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 18,
+        "room_title": "",
+        "nurse_list": []
+      },
+      {
+        "ordinal": 19,
+        "room_title": "",
+        "nurse_list": []
+      }
+    ]
+  }
+}

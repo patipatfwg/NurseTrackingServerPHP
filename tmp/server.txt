@@ -1,0 +1,27 @@
+{
+  "androidbox": {
+    "datetime": "2020-11-28 15:40:41",
+    "device_id": "69d2a427a05289a3",
+    "message": "Please update version."
+  },
+  "itag": {
+    "itag_list": [
+      {
+        "brand_name": "iTAG",
+        "distance": -99,
+        "mac_address": "FF:FF:B1:25:6D:80"
+      },
+      {
+        "brand_name": "vívosmart 3",
+        "distance": -98,
+        "mac_address": "F6:74:96:54:8E:B6"
+      },
+      {
+        "brand_name": "iTAG",
+        "distance": -99,
+        "mac_address": "FF:FF:CA:1B:CA:80"
+      }
+    ],
+    "version": "3003202005001"
+  }
+}
